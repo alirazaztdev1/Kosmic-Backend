@@ -1,0 +1,6 @@
+export enum GENDER {
+  MALE = 'MALE',
+  FEMALE = 'FEMALE',
+  NOT_SPECIFIED = 'NOT_SPECIFIED',
+  NULL = 'NULL'
+}
