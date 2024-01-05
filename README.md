@@ -43,7 +43,7 @@ Kosmic-Backend is a backend server project that provides various features for a 
 1. Clone the repository:
 
    ````shell
-   git clone [https://github.com/alirazaztdev1/kosmic-backend.git](https://github.com/alirazaztdev1/Kosmic-Backend.git)
+   git clone (https://github.com/alirazaztdev1/Kosmic-Backend.git)
    ```
 
 2. Install dependencies:
